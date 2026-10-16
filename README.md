@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # TeamTask
 
 Multi-user task management SaaS (Capstone - Full-Stack SaaS).
