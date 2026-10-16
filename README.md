@@ -12,4 +12,4 @@ Check: http://localhost:5000/api/health
 - POST `/api/auth/register`  `{ name, email, password }`
 - POST `/api/auth/login`     `{ email, password }`
 - GET  `/api/auth/me`        (header `Authorization: Bearer <token>`)
-=======
+  
