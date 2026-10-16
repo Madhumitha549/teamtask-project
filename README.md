@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TeamTask
 
 Multi-user task management SaaS (Capstone - Full-Stack SaaS).
@@ -14,3 +15,7 @@ Check: http://localhost:5000/api/health
 - POST `/api/auth/register`  `{ name, email, password }`
 - POST `/api/auth/login`     `{ email, password }`
 - GET  `/api/auth/me`        (header `Authorization: Bearer <token>`)
+=======
+# teamtask-project
+Team Task Management Web Application
+>>>>>>> eb293dfa69109bb4ecca1bf9b611daea81472e9f
